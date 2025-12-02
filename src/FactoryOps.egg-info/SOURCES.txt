@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/FactoryOps/__init__.py
+src/FactoryOps/module1.py
+src/FactoryOps.egg-info/PKG-INFO
+src/FactoryOps.egg-info/SOURCES.txt
+src/FactoryOps.egg-info/dependency_links.txt
+src/FactoryOps.egg-info/top_level.txt
+src/FactoryOps/Manufacturing_Science/PApi00002.py
+src/FactoryOps/Manufacturing_Science/__init__.py
+src/FactoryOps/Manufacturing_Science/testing.py
+src/FactoryOps/Manufacturing_Science/littleslaw/Py00001.py

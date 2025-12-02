@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: FactoryOps
+Version: 0.0.20012
+Summary: FactoryOps is an intuitive Python package designed to bring the core principles of Scientific Management—pioneered by Frederick Winslow Taylor—into the daily operational decision-making of modern factory and production environments. It is specifically crafted for laymen and non-data science specialists in the industry, such as shift managers, production supervisors, and small-to-medium enterprise owners.
+Author-email: Acvilas <FactoryOps-dev@acvilas.lk>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# Factory_Opration_Managemnet
+FactoryOprationManagemnet

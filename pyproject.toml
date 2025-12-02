@@ -1,0 +1,19 @@
+[project]
+name = "FactoryOps"
+version = "0.0.20012"
+authors = [
+  { name="Acvilas", email="FactoryOps-dev@acvilas.lk" },
+]
+description = "FactoryOps is an intuitive Python package designed to bring the core principles of Scientific Management—pioneered by Frederick Winslow Taylor—into the daily operational decision-making of modern factory and production environments. It is specifically crafted for laymen and non-data science specialists in the industry, such as shift managers, production supervisors, and small-to-medium enterprise owners."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"
